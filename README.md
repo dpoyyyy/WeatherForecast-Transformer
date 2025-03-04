@@ -1,4 +1,4 @@
-# Transformer Model for Time Series Forecasting
+# Transformer Architecture for Time Series Forecasting 
 
 ## Overview
 This repository implements a Transformer-based model for time series forecasting using PyTorch. The model is designed to predict future temperature values based on historical weather data, utilizing deep learning techniques for sequential data processing.
